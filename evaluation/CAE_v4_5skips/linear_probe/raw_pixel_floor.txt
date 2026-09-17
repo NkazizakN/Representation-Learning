@@ -1,0 +1,2 @@
+raw_pixel_auc_mean: 0.8101600000000001
+raw_pixel_auc_std: 0.021236346201736304

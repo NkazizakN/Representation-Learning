@@ -1,0 +1,8 @@
+auc_mean: 0.8218399999999999
+auc_std: 0.014726520295032405
+acc_mean: 0.7479999999999999
+seeds: [0, 1, 2, 3, 4]
+armd_only_auc: 0.865
+armd_only_n: 16
+armd_other_auc: 0.8300000000000001
+armd_other_n: 12
